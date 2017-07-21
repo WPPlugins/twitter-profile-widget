@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+.twitter-profile {
+	padding: 0.3em 0 0.5em;
+}
+
+.twitter-profile .tp_icon_name {
+	margin: 0 0 10px 0;
+	line-height: 1.3em;
+}
+.twitter-profile .tp_icon_name .tp_profile_image {
+	float: left;
+	margin: 0 10px 0 0;
+	width: 48px;
+	height: 48px;
+}
+.twitter-profile .tp_icon_name .tp_name {
+	font-weight: bold;
+}
+
+.twitter-profile .tp_profile {
+	margin: 0 0 2px 0;
+}
+.twitter-profile .label {
+	font-weight: bold;
+}
+.twitter-profile .content {
+	font-weight: normal;
+}
+
+.twitter-profile .tp_counts {
+	width: 100%;
+}
+.twitter-profile .tp_counts td {
+	width: 33%;
+}
+.twitter-profile .tp_counts td span {
+	font-weight: bold;
+	color: inherit;
+}
